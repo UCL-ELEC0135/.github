@@ -1,12 +1,19 @@
-## Hi there 👋
+# ELEC0135 - Applied Machine Learning Systems II (MLS-II) 
 
-<!--
+Welcome to the GitHub organization for **ELEC0135: Applied Machine Learning Systems II (MLS II)** at UCL!  
 
-**Here are some ideas to get you started:**
+This organization serves as the hub for hosting GitHub Classroom assignments and lab materials for the module. ELEC0135 explores advanced concepts and practical techniques in machine learning, focusing on their application to real-world systems.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Labs Overview:
+- **MLP (Multi-Layer Perceptrons):** Dive into neural networks and train a fully connected MLP to solve classification and regression tasks.  
+- **MoE (Mixture of Experts):** Explore the MoE framework, combining multiple expert models with gating mechanisms to handle complex data distributions.  
+- **RL Part 1 (Reinforcement Learning - Fundamentals):** Provides a fully implemented reinforcement learning pipeline, focusing on comprehension, parameter tuning, and practical application.  
+- **RL Part 2 (Reinforcement Learning - Advanced Topics):**  Implement and debug critical components of a reinforcement learning algorithm, promoting deeper understanding and problem-solving skills.
+
+This GitHub organization is designed to facilitate collaboration, provide assignment templates, and enable structured submission and feedback processes for ELEC0135.  
+
+Happy coding and learning! 
+
+### Contact
+- Module leader: [Dr Ioannis Andreopoulos](i.papakonstantinou@ucl.ac.uk)
+- Maintainers: [Dr. Eduardo Pignatelli](e.pignatelli@ucl.ac.uk), [David Gerard](david.gerard.23@ucl.ac.uk)
