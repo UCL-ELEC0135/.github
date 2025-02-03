@@ -7,13 +7,12 @@ This organization serves as the hub for hosting GitHub Classroom assignments and
 ### Labs Overview:
 - **MLP (Multi-Layer Perceptrons):** Dive into neural networks and train a fully connected MLP to solve classification and regression tasks.  
 - **MoE (Mixture of Experts):** Explore the MoE framework, combining multiple expert models with gating mechanisms to handle complex data distributions.  
-- **RL Part 1 (Reinforcement Learning - Fundamentals):** Provides a fully implemented reinforcement learning pipeline, focusing on comprehension, parameter tuning, and practical application.  
-- **RL Part 2 (Reinforcement Learning - Advanced Topics):**  Implement and debug critical components of a reinforcement learning algorithm, promoting deeper understanding and problem-solving skills.
+- **RL (Reinforcement Learning - Fundamentals):** Provides a fully implemented reinforcement learning pipeline, focusing on comprehension, parameter tuning, and practical application.  
 
 This GitHub organization is designed to facilitate collaboration, provide assignment templates, and enable structured submission and feedback processes for ELEC0135.  
 
 Happy coding and learning! 
 
-### Contact
+### Contacts
 - Module leader: [Dr Ioannis Andreopoulos](i.papakonstantinou@ucl.ac.uk)
 - Maintainers: [Dr. Eduardo Pignatelli](e.pignatelli@ucl.ac.uk), [David Gerard](david.gerard.23@ucl.ac.uk)
